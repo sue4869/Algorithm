@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <cstring>
 using namespace std;
 
-//strcmp »ç¿ëÇØº¸±â.
+//strcmp ì‚¬ìš©í•´ë³´ê¸°.
 int main() {
 	cout << "ID :";
 	char id[4];
